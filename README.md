@@ -9,9 +9,9 @@
 # Привет! Меня зовут Алексей, я Инженер по тестированию ПО.
 * __Мне нравится решать логические задачи и находить баги.__
 * __Увлекаюсь программированием, интересуюсь нововведениями в сфере IT.__
-* __Образование Высшее [диплом](https://github.com/Akir800/AlexeyKirillov/blob/master/Certificates/Diplome_1.pdf).__
-* __Педагогическая подготовка [диплом](https://github.com/Akir800/AlexeyKirillov/blob/master/Certificates/Diplome_2.pdf) и [диплом](https://github.com/Akir800/AlexeyKirillov/blob/master/Certificates/Diplome_3.pdf).__
-* __Прошeл профессиональную переподготовку в Нетологии по специальности [Тестировщик ПО](https://netology.ru/programs/qa) и получил [диплом](https://github.com/Akir800/AlexeyKirillov/blob/master/Certificates/Diplome_QA.pdf).__
+* __Образование Высшее [диплом](https://github.com/Akir800/Akir800/blob/master/Certificates/Diplome_1.pdf).__
+* __Педагогическая подготовка [диплом](https://github.com/Akir800/Akir800/blob/master/Certificates/Diplome_2.pdf) и [диплом](https://github.com/Akir800/Akir800/blob/master/Certificates/Diplome_3.pdf).__
+* __Прошeл профессиональную переподготовку в Нетологии по специальности [Тестировщик ПО](https://netology.ru/programs/qa) и получил [диплом](https://github.com/Akir800/Akir800/blob/master/Certificates/Diplome_QA.pdf).__
 * __Совершенствуюсь в тестировании web-приложений, desktop-приложений и mobile-приложений, а также в написании автотестов на Java и JavaScript.__
 * __Изучаю Python.__
 * __В свободное время занимаюсь семьей, серфингом, катанием на велосипеде, фитнесом и, конечно, обучением.__
@@ -91,12 +91,12 @@
 
 ## Сертификаты обучающих курсов
 
-* [GIT](https://github.com/Akir800/AlexeyKirillov/blob/master/Certificates/certificate%20git.pdf)
-* [Java для тестировщиков](https://github.com/Akir800/AlexeyKirillov/blob/master/Certificates/certificate%20java.pdf)
-* [Автоматизированное тестирование](https://github.com/Akir800/AlexeyKirillov/blob/master/Certificates/certificate%20auto.pdf)
-* [Ручное тестирование веб-приложений](https://github.com/Akir800/AlexeyKirillov/blob/master/Certificates/certificate%20manual.pdf)
-* [Английский для программистов](https://github.com/Akir800/AlexeyKirillov/blob/master/Certificates/certificate%20eng.pdf)
-* [Диплом о профессиональной переподготовке](https://github.com/Akir800/AlexeyKirillov/blob/master/Certificates/Diplome_QA.pdf)
+* [GIT](https://github.com/Akir800/Akir800/blob/master/Certificates/certificate%20git.pdf)
+* [Java для тестировщиков](https://github.com/Akir800/Akir800/blob/master/Certificates/certificate%20java.pdf)
+* [Автоматизированное тестирование](https://github.com/Akir800/Akir800/blob/master/Certificates/certificate%20auto.pdf)
+* [Ручное тестирование веб-приложений](https://github.com/Akir800/Akir800/blob/master/Certificates/certificate%20manual.pdf)
+* [Английский для программистов](https://github.com/Akir800/Akir800/blob/master/Certificates/certificate%20eng.pdf)
+* [Диплом о профессиональной переподготовке](https://github.com/Akir800/Akir800/blob/master/Certificates/Diplome_QA.pdf)
 
 
 ## Моя статистика
