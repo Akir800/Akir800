@@ -4,7 +4,7 @@
  * __akir800@gmail.com__
  
  ## Резюме
- [Резюме QA engineer](https://github.com/Akir800/Akir800/blob/master/CV/CV_QA_engineer.pdf)
+ [Резюме QA engineer](https://github.com/Akir800/Akir800/blob/master/CV/CV_QA_Engineer.pdf)
 
 # Привет! Меня зовут Алексей, я Инженер по тестированию ПО.
 * __Мне нравится решать логические задачи и находить баги.__
