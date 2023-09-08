@@ -55,7 +55,6 @@
 ## Тестирование веб-сервисов.
 * ["Ручное тестирование henderson.ru"](https://docs.google.com/spreadsheets/d/1X0ZunWi4yEscNeWeFddUIpbS6b_oxFUG_5HoiUIDnXU/edit#gid=0): тестирование требований, чек-лист, тестк-кейсы, тестирование верстки, тестирование API, DevTools.
 * ["Автоматизация тестирования комплексного сервиса, взаимодействующего с СУБД и API Банка".- Тестирование веб-сервиса для покупки тура](https://github.com/Akir800/QA_Diploma.git): Java 8, GitHub, Intellij IDEA, VSC, Allure.
-* ["Автоматизация тестирования авторизаци и на сайте netology.ru"](https://github.com/KseniyaChepelevich/Test_Playwright): Visual Studio Code, JS, Jest, Playwright.
 
 
 ## Java
